@@ -43,7 +43,7 @@ To run app, run the following command
   
 ## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/SagarDhandare/Liver-Disease-Prediction-Project/main/Images/screenshot.png)
+![App Screenshot]("")
 
   
 ## Deployment
