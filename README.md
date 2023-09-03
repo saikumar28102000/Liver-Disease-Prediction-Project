@@ -43,7 +43,7 @@ To run app, run the following command
   
 ## Screenshot
 
-![App Screenshot]("https://github.com/saikumar28102000/Python_Project_EAS503/blob/main/Images/ss.png")
+![App Screenshot](https://github.com/saikumar28102000/Python_Project_EAS503/blob/main/Images/ss.png)
 
   
 ## Deployment
