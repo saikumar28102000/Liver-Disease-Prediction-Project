@@ -90,27 +90,4 @@ Push code to Master Branch
 ```
 
   
-## Related
 
-Here are some related projects
-
-
-[Heart Disease](https://github.com/SagarDhandare/Heart-Disease-Project)
-
-[Stroke Prediction](https://github.com/SagarDhandare/Stroke-Prediction-Project)
-
-[Diabetes Disease](https://github.com/SagarDhandare/Diabetes-Disease-Project)
-
-[Chronic Kidney Disease](https://github.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project)
-
-[Breast Cancer Disease](https://github.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project)
-
-[Medical Insurance Cost](https://github.com/SagarDhandare/Medical-Insurance-Cost-Project)
-  
-## Feedback
-
-If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/sagardhandare/)
-
-Please do ⭐ the repository, if you like this.😊
-
-Thank you ❤
